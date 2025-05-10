@@ -1,0 +1,10 @@
+{
+    "name": "kartik-a001/study-git-flow",
+    "description": "study",
+    "autoload": {
+        "psr-4": {
+            "KartikA001\\StudyGitFlow\\": "src/"
+        }
+    },
+    "require": {}
+}
