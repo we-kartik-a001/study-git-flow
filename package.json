@@ -1,0 +1,11 @@
+{
+  "name": "study-git-flow",
+  "version": "1.0.0",
+  "description": "study-git-flow",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
